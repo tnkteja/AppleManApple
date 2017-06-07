@@ -12,4 +12,4 @@ Nostalogic missing the chrome. I am about to install it. And I need to open my d
 ## Setting up the Mailbox
 
 This looked fine, I clicked on the Mail icon nothing seemed to open, then I open a mailbox from menu and started the wizard.
-
+.

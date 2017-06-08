@@ -16,4 +16,9 @@ Later I found a arrow pointing to the browser downloads folder icon besides the 
 ## Setting up the Mailbox
 
 This looked fine, I clicked on the Mail icon nothing seemed to open, then I open a mailbox from menu and started the wizard.
-.
+
+## Setting up a printer
+
+
+## References
+1. _https://support.apple.com/kb/PH18606?locale=en_US&viewlocale=en_US_

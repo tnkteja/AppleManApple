@@ -11,13 +11,17 @@ Since I was presented this on the job. I got two convinent monitors along with i
 ## Chrome crawling
 Nostalogic missing the chrome. I am about to install it. And I need to open my downloads folder. First I thought to look at the file manager for downloads folder in the bottom task bar. But it could also be on the teminal in the unix folder setting.
 
-Later I found a arrow pointing to the browser downloads folder icon besides the url bar. Installed it 
+Later I found a arrow pointing to the browser downloads folder icon besides the url bar. Installed it.
 
 ## Setting up the Mailbox
 
 This looked fine, I clicked on the Mail icon nothing seemed to open, then I open a mailbox from menu and started the wizard.
 
 ## Setting up a printer
+
+
+## Store for your 
+As a developer I intend to use slack. I tried to install thorugh app store. Out of nowhere it asks me associate an apple id with the store. And takes to the payment section - mandatory :open_mouth: -  for entereing the credit card details.
 
 
 ## References

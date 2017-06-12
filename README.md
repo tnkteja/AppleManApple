@@ -39,8 +39,11 @@ If I cant get my windows back .. I will just use wine like I use on any other li
 ## Complaints
 
 1. There is no `insert`  button on Apple. :
-2. There is no package manager for MAC. 
+### 2. There is no package manager for MAC. 
 
+ Found a package manager called brew _apparantly the defacto_ standard for the Mac.[3]
+ 
 ## References
 1. _https://support.apple.com/kb/PH18606?locale=en_US&viewlocale=en_US_
 2. _https://www.xquartz.org/_
+3. _https://brew.sh/_

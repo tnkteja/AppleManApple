@@ -36,10 +36,10 @@ I first time I hit git on the terminal,it asked me ina typical linux way to inst
 If I cant get my windows back .. I will just use wine like I use on any other linux machine to get my favourite sofware running. [2]
 
 
-
 ## Complaints
 
 1. There is no `insert`  button on Apple. :
+2. There is no package manager for MAC. 
 
 ## References
 1. _https://support.apple.com/kb/PH18606?locale=en_US&viewlocale=en_US_

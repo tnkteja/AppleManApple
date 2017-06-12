@@ -38,7 +38,10 @@ If I cant get my windows back .. I will just use wine like I use on any other li
 
 ## Complaints
 
-1. There is no `insert`  button on Apple. :
+### 1. There is no `insert`  button on Apple. :
+
+Usually on windows I would use the shift insert button to paste something new from the clip board. But there is no `insert` button on Mac.
+
 ### 2. There is no package manager for MAC. 
 
  Found a package manager called brew _apparantly the defacto_ standard for the Mac.[3]
